@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="203" src="https://i.postimg.cc/1m9Vqg3p/tracy-AI.png"  />
+<img align="right" height="143" src="https://i.postimg.cc/1m9Vqg3p/tracy-AI.png"  />
 
 ###
 
